@@ -1,6 +1,6 @@
 These are some of the projects/courses i completed with datacamp.
 
-## Course 1. [Supercised Learning in Python]
+## Course 1. [Supervised Learning in Python]
  
 1. Chapter1 - [Classification]
 2. Chapter2 - [Regression]
@@ -8,7 +8,7 @@ These are some of the projects/courses i completed with datacamp.
 4. Chapter4 - [preprocessing pipeline]
 
 
-## Course 2. [Unsupercised Learning in Python]
+## Course 2. [Unsupervised Learning in Python]
  
 1. Chapter1 - [Clustering for dataset exploration]
 2. Chapter2 - [visualization with hierarchical clustering and t-sne]
